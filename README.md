@@ -28,12 +28,14 @@ Each planet spins around its own axis. This movement is called rotation.
 Earth takes approximately 24 hours to complete one rotation.
 Jupiter rotates in about 10 hours.
 Venus rotates very slowly, taking approximately 243 Earth days.
+
 2. Planetary Revolution
 Each planet travels around the Sun in an elliptical orbit. This movement is called revolution.
 
 Mercury takes 88 Earth days to orbit the Sun.
 Earth takes 365.25 days.
 Neptune takes approximately 165 Earth years.
+
 3. The Sun's Movement Through the Galaxy
 The Sun is not stationary. It travels around the center of the Milky Way galaxy, carrying all eight planets along with it.
 
