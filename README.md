@@ -1,6 +1,8 @@
 # spacetravel
 🌌 How Our Solar System Moves in Space
 
+https://yashaswyakella.github.io/spacetravel
+
 Project Overview
 This project is an interactive HTML-based visualization that demonstrates how our solar system moves through space. It focuses on the Sun and its eight planets, showing how they orbit the Sun while the entire solar system travels through the Milky Way galaxy.
 
